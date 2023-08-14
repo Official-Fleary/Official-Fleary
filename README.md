@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my website to test my skills<br>👯 I’m looking to collaborate on nothing for now<br>🤝 I’m looking for help with nothing for now<br>🌱 I’m currently learning Front End Web Develop,ent<br>💬 Ask me about web designing<br>⚡ I'm calm and smart
+🔭 I’m currently working on my website to test my skills<br>👯 I’m looking to collaborate on nothing for now<br>🤝 I’m looking for help with nothing for now<br>🌱 I’m currently learning Front End Web Development<br>💬 Ask me about web designing<br>⚡ I'm calm and smart
 
 
 ## 🌐 Socials:
@@ -16,6 +16,6 @@
 [![](https://visitcount.itsvg.in/api?id=Official-Fleary&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/buymeacoffee.com/officialfleary) 
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/officialfleary) 
 
   
